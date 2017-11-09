@@ -1,0 +1,13 @@
+--Proyecto Post Java Aggregator
+--Links more used
+
+https://github.com/frov1981/java-blog-aggregator
+https://projects.spring.io/spring-framework/
+https://docs.spring.io/spring/docs/5.0.2.BUILD-SNAPSHOT/spring-framework-reference/web.html#spring-web
+http://tiles.apache.org/framework/tutorial/basic/pages.html
+http://getbootstrap.com/docs/3.3/getting-started/#download
+https://developers.google.com/speed/libraries/#jquery
+https://getbootstrap.com/docs/3.3/examples/navbar/
+view-source:https://getbootstrap.com/docs/3.3/examples/navbar/
+https://www.jetbrains.com/help/idea/enabling-jpa-support.html
+http://www.javavids.com/video/eclipse-jpa-diagram-editor.html
